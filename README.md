@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adharsh A K
-- 👀 I’m interested in Data Analytics and Web Development
-- 🌱 I’m currently learning Python,SQL,Excel,PowerBi,HTML,CSS,Javascript
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Python,SQL,Excel,PowerBi
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me @ adharsh.a.krishna@gmail.com
 - 😄 Pronouns: He/Him
